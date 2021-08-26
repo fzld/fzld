@@ -1,9 +1,14 @@
-# Who am I?
+# Hi there!
 
-Hello name's Zaldi! I'm currently pursuing my bachelor degree at [Gunadarma University](https://www.gunadarma.ac.id/). I love web development, mainly front-end and graphic related stuff.
+Name's Zaldi! I do web development, mainly front-end and graphic related stuff.
 
-## GitHub Status
+**Current information:**
+- 📚 Currently pursuing my BE degree at [Gunadarma University](https://www.gunadarma.ac.id/)
+- 💻 Doing personal project and some freelance job
+- 🔮 Trying to get myself together ((( seriously )))
+
 <details>
+<summary>My Github Stats<summary/>
   
 [![zaldi's github stats](https://github-readme-stats.vercel.app/api?username=fzld&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
