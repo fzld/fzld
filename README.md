@@ -7,8 +7,7 @@ Name's Zaldi! I do web development, mainly front-end and graphic related stuff.
 - 💻 Doing personal project and some freelance job
 - 🔮 Trying to get myself together ((( seriously )))
 
-<details>
-<summary>My Github Stats<summary/>
+<details>My Github Stats
   
 [![zaldi's github stats](https://github-readme-stats.vercel.app/api?username=fzld&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
