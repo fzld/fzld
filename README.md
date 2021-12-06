@@ -1,6 +1,6 @@
 # Hi there!
 
-Name's Zaldi! I do web development, mainly front-end and graphic related stuff. Recently dive into project and operation management thingy.
+Name's Zaldi! Used to do some Web Development, frontend and graphic stuff. Trying to get myself to code little by little.
 
 **Current information:**
 - 📚 Currently pursuing my BE degree at [Gunadarma University](https://www.gunadarma.ac.id/)
