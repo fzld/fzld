@@ -3,7 +3,7 @@
 Name's Zaldi! Used to do some Web Development, frontend and graphic stuff. Trying to get myself to code little by little.
 
 **Current information:**
-- 📚 Currently pursuing my BE degree at [Gunadarma University](https://www.gunadarma.ac.id/)
+- 📚 BE degree WIP at [Gunadarma University](https://www.gunadarma.ac.id/)
 - 💻 Currently working as Project Operation at [Stamps Indonesia](https://about.stamps.id/#stamps)
 - 🔮 Trying to get myself together <b>((( seriously )))</b>
 
