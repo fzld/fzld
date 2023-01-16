@@ -1,6 +1,6 @@
 # Hi there!
 
-Name's Zaldi! Used to do some frontend development and graphic stuff.
+name's zaldi! 
 
 **Current information:**
 - 📚 BE degree WIP at [Gunadarma University](https://www.gunadarma.ac.id/)
