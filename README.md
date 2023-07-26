@@ -1,8 +1,6 @@
-# Hi there!
+## zaldi's here!
 
-name's zaldi! 
-
-**Current information:**
+**Current stat:**
 - 💻 IT Project Manager at [Stamps Indonesia](https://about.stamps.id/#stamps)
 - ✏️ Building cool stuffs on the side
 - 🔮 Trying to get myself together <b>((( seriously )))</b>
