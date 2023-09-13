@@ -2,7 +2,7 @@
 
 ### Current Stats
 - 💻 IT Project Manager at [Stamps Indonesia](https://about.stamps.id/#stamps)
-- ✏️ Building cool stuffs on the side
+- ✏️ Building cool stuffs with [ATHLEAD Indonesia](https://www.athlead.id/)
 - 🔮 Trying to get myself together <b>((( seriously )))</b>
 
 <h3 align="left">Main Tools:</h3>
