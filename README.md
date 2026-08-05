@@ -1,8 +1,7 @@
 ## zaldi's here!
 
 ### Current Stats
-- 💻 IT Project Manager at [Stamps Indonesia](https://about.stamps.id/#stamps)
-- 🔮 Trying to get myself together <b>((( seriously )))</b>
+🔮 Trying to get myself together <b>((( seriously )))</b>
 
 <h3 align="left">Main Tools:</h3>
 <p align="left">
